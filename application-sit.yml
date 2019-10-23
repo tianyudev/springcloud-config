@@ -3,4 +3,4 @@ server:
         context-path: /micro-sit
         
 file:
-    name: application-dev
+    name: application-sit

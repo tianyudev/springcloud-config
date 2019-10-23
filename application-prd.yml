@@ -3,4 +3,4 @@ server:
         context-path: /micro-prod
 
 file:
-    name: application-dev
+    name: application-prd
