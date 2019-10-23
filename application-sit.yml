@@ -1,6 +1,6 @@
 server:
     servlet:
-        context-path: micro-sit
+        context-path: /micro-sit
         
 file:
     name: application-dev
